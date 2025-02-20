@@ -43,3 +43,22 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+.creeper img,
+.soccer img {
+    width: 100px;
+    height: 100px;
+}
+
+button {
+    background-color: #0000ff; /* Blue */
+    color: #ffdd00; /* Yellow */
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ffdd00; /* Yellow */
+    color: #0000ff; /* Blue */
+}
